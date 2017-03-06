@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+	<title>My WebPage</title>
+</head>
+<body style="background-color:lavender;">
+	<h1 style="font-family:courier;"> About Me </h1>
+		<p style="color:white;"> Random Facts </p>
+		<ol>
+			<li>My favorite color is the background</li>
+			<li>I like coding/li>
+			<li>This list is too long</li>
+		</ol>
+	</body>
+	</html>
+	
